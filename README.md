@@ -87,4 +87,4 @@ January   -    1455 Answered **** 317 Not Answered
 February  -    1298 Answered **** 318 not Answered
 March     -    1301 Answered **** 311 not Answered
 
-        thus, more customers have travel type 
+       thus, more customers has been satisfied and January month has the most count of clients than February and March.
