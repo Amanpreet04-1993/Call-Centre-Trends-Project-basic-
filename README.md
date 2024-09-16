@@ -1,6 +1,8 @@
-# Call Centre Trends  -  POWER BI
+# Call Centre Trends - PWC Project
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/720c15b6-d2e9-41f6-ac85-aeb71699fb99/e2c477f71d03bdd6d031?experience=power-bi
+
+![Call centre trends Screenshot](https://github.com/user-attachments/assets/831c4357-c77f-4c5b-b520-8c85d01eb599)
 
 ## Problem Statement
 
@@ -73,7 +75,7 @@ thus, higher number of customers cases are resolved than not resolved.
   ### [3] Average Speed of Answering the call has come up to 67.50 in seconds.
   
      
-Average woudnt change if different visual as its a card.
+Average wouldn't change if different visual as its a card.
 
  ### [4] Some other insights
  
@@ -88,3 +90,8 @@ February  -    1298 Answered **** 318 not Answered
 March     -    1301 Answered **** 311 not Answered
 
        thus, more customers has been satisfied and January month has the most count of clients than February and March.
+.
+.
+.
+Thanks!
+       
